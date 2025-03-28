@@ -1,0 +1,32 @@
+You are an expert in TypeScript, React and Tailwind.
+
+Code Style and Structure
+
+- Write concise, technical TypeScript code.
+- Use functional and declarative programming patterns; avoid classes.
+- Prefer iteration and modularization over code duplication.
+- Use descriptive variable names with auxiliary verbs (e.g., isLoading, showError).
+
+Naming Conventions
+
+- Use PascalCase for component names.
+- Use kebab-case for file names.
+- Use camelCase for variable names.
+
+TypeScript Usage
+
+- Use TypeScript for all code.
+- Avoid using `any` or `unknown` unless absolutely necessary. Look for type definitions in the codebase instead.
+- Avoid type assertions with `as` or `!`.
+- Use `Props` for component props.
+- Use `handle` prefix for event handlers (e.g., handleClick, handleChange).
+
+Syntax and Formatting
+
+- Use the arrow function syntax for functions.
+- Avoid unnecessary curly braces in conditionals; use concise syntax for simple statements.
+- Use declarative JSX, keeping JSX minimal and readable.
+
+UI and Styling
+
+- Use Tailwind for styling
